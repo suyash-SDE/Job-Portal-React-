@@ -1,0 +1,282 @@
+  [
+    {
+      "id": "1",
+      "title": "Frontend Developer Intern",
+      "company": "MyAnatomy",
+      "location": "Bangalore",
+      "deadline": "2025-07-10",
+      "description": "We are looking for React interns who are eager to learn and contribute to our exciting projects. This role involves working with React, Redux, and modern web technologies. Strong problem-solving skills and a passion for coding are a plus."
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer Intern",
+      "company": "MyAnatomy",
+      "location": "Hyderabad",
+      "deadline": "2025-07-15",
+      "description": "Join our backend team! You'll be working with Node.js, Express, and databases like MongoDB. This is a great opportunity to gain experience in building scalable server-side applications."
+    },
+    {
+      "id": "3",
+      "title": "UI/UX Design Intern",
+      "company": "DesignCo",
+      "location": "Remote",
+      "deadline": "2025-07-20",
+      "description": "We're seeking creative UI/UX design interns to help us craft intuitive and beautiful user interfaces. Proficiency in Figma/Sketch and a strong portfolio are desired."
+    },
+    {
+      "id": "4",
+      "title": "Data Science Intern",
+      "company": "DataInsights",
+      "location": "Chennai",
+      "deadline": "2025-07-25",
+      "description": "Are you passionate about data? Our data science team needs interns to assist with data analysis, machine learning model development, and visualization. Python and a basic understanding of statistics are helpful."
+    },
+    {
+      "id": "5",
+      "title": "Fullstack Developer Intern",
+      "company": "TechSolutions",
+      "location": "Pune",
+      "deadline": "2025-08-01",
+      "description": "A great opportunity for aspiring fullstack developers! Work with React on the frontend and Node.js/Python on the backend. Gain hands-on experience across the entire development stack."
+    },
+    {
+      "id": "6",
+      "title": "Cloud Engineering Intern",
+      "company": "CloudBurst",
+      "location": "Bangalore",
+      "deadline": "2025-08-05",
+      "description": "Explore AWS/Azure/GCP with us! Learn infrastructure as code (IaC), containerization, and serverless architectures. Basic understanding of networking and Linux is a plus."
+    },
+    {
+      "id": "7",
+      "title": "Mobile App Developer Intern (Android)",
+      "company": "AppCraft",
+      "location": "Mumbai",
+      "deadline": "2025-08-10",
+      "description": "Develop exciting Android applications using Kotlin/Java. Work on UI/UX, API integrations, and testing. Prior mobile development experience is a bonus but not required."
+    },
+    {
+      "id": "8",
+      "title": "Cybersecurity Intern",
+      "company": "SecureNet",
+      "location": "Delhi",
+      "deadline": "2025-08-12",
+      "description": "Dive into network security, vulnerability assessments, and incident response. Learn about firewalls, intrusion detection, and security best practices."
+    },
+    {
+      "id": "9",
+      "title": "Game Development Intern",
+      "company": "PixelPlay",
+      "location": "Hyderabad",
+      "deadline": "2025-08-18",
+      "description": "Join our innovative game studio! Assist with game logic, mechanics, and asset integration using Unity/Unreal Engine. Passion for gaming is a must!"
+    },
+    {
+      "id": "10",
+      "title": "DevOps Intern",
+      "company": "BuildFast",
+      "location": "Pune",
+      "deadline": "2025-08-20",
+      "description": "Automate deployment pipelines, manage CI/CD, and learn about monitoring tools like Prometheus and Grafana. Experience with Docker/Kubernetes is a plus."
+    },
+    {
+      "id": "11",
+      "title": "Technical Writer Intern",
+      "company": "DocuTech",
+      "location": "Remote",
+      "deadline": "2025-08-25",
+      "description": "Create clear and concise documentation for software products, APIs, and user guides. Strong writing skills and attention to detail are key."
+    },
+    {
+      "id": "12",
+      "title": "Quality Assurance (QA) Intern",
+      "company": "TestGuru",
+      "location": "Bangalore",
+      "deadline": "2025-08-28",
+      "description": "Contribute to software quality by designing test cases, executing manual and automated tests, and reporting bugs. Familiarity with testing methodologies is a plus."
+    },
+    {
+      "id": "13",
+      "title": "AI/ML Research Intern",
+      "company": "MindBridge",
+      "location": "Chennai",
+      "deadline": "2025-09-01",
+      "description": "Assist in researching and developing machine learning models for various applications. Proficiency in Python and ML libraries like TensorFlow/PyTorch is preferred."
+    },
+    {
+      "id": "14",
+      "title": "Blockchain Developer Intern",
+      "company": "CryptoEdge",
+      "location": "Hyderabad",
+      "deadline": "2025-09-05",
+      "description": "Explore the world of decentralized applications! Learn Solidity, smart contracts, and blockchain platforms. Basic understanding of cryptography is a plus."
+    },
+    {
+      "id": "15",
+      "title": "Database Administrator (DBA) Intern",
+      "company": "DataVault",
+      "location": "Bangalore",
+      "deadline": "2025-09-08",
+      "description": "Learn about database management, optimization, and security for SQL and NoSQL databases. Experience with MySQL/PostgreSQL is a bonus."
+    },
+    {
+      "id": "16",
+      "title": "Network Engineer Intern",
+      "company": "ConnectSphere",
+      "location": "Mumbai",
+      "deadline": "2025-09-12",
+      "description": "Assist with network design, implementation, and troubleshooting. Gain hands-on experience with routers, switches, and firewalls."
+    },
+    {
+      "id": "17",
+      "title": "AR/VR Developer Intern",
+      "company": "ImmerseTech",
+      "location": "Pune",
+      "deadline": "2025-09-15",
+      "description": "Create immersive augmented and virtual reality experiences. Work with Unity and learn about 3D modeling and interaction design."
+    },
+    {
+      "id": "18",
+      "title": "Digital Marketing Intern (Tech focus)",
+      "company": "MarketMinds",
+      "location": "Remote",
+      "deadline": "2025-09-18",
+      "description": "Support our digital marketing efforts for tech products. Learn about SEO, SEM, social media campaigns, and content creation."
+    },
+    {
+      "id": "19",
+      "title": "Embedded Systems Intern",
+      "company": "CoreLogic",
+      "location": "Bangalore",
+      "deadline": "2025-09-20",
+      "description": "Work with microcontrollers, sensors, and hardware programming. Basic knowledge of C/C++ is required. Great for electronics enthusiasts!"
+    },
+    {
+      "id": "20",
+      "title": "IT Support Intern",
+      "company": "HelpDeskPro",
+      "location": "Delhi",
+      "deadline": "2025-09-22",
+      "description": "Provide technical assistance to employees, troubleshoot software/hardware issues, and assist with system maintenance. Good communication skills are essential."
+    },
+    {
+      "id": "21",
+      "title": "Web Designer Intern",
+      "company": "VisualBytes",
+      "location": "Remote",
+      "deadline": "2025-09-25",
+      "description": "Focus on the visual aspects of web development. Create engaging layouts, graphics, and ensure cross-browser compatibility using HTML, CSS, and JavaScript."
+    },
+    {
+      "id": "22",
+      "title": "Product Management Intern",
+      "company": "InnovateNow",
+      "location": "Bangalore",
+      "deadline": "2025-09-28",
+      "description": "Assist product managers in defining product roadmaps, gathering requirements, and analyzing market trends. Great for those interested in the business side of tech."
+    },
+    {
+      "id": "23",
+      "title": "Operations Intern (Tech Sector)",
+      "company": "OpsOptimize",
+      "location": "Hyderabad",
+      "deadline": "2025-10-01",
+      "description": "Support day-to-day operational tasks within a tech company. Focus on efficiency, process improvement, and cross-functional coordination."
+    },
+    {
+      "id": "24",
+      "title": "Bioinformatics Intern",
+      "company": "GeneDecode",
+      "location": "Pune",
+      "deadline": "2025-10-05",
+      "description": "Apply computational techniques to analyze biological data. Knowledge of Python/R and biology/genetics concepts is required."
+    },
+    {
+      "id": "25",
+      "title": "Robotics Engineering Intern",
+      "company": "RoboMotion",
+      "location": "Chennai",
+      "deadline": "2025-10-08",
+      "description": "Work on the design, development, and testing of robotic systems. Experience with ROS, C++, or Python in a robotics context is a plus."
+    },
+    {
+      "id": "26",
+      "title": "Fullstack Java Developer Intern",
+      "company": "EnterpriseSolutions",
+      "location": "Bangalore",
+      "deadline": "2025-10-10",
+      "description": "Build robust web applications using Java (Spring Boot) on the backend and React/Angular on the frontend. Solid grasp of OOP is essential."
+    },
+    {
+      "id": "27",
+      "title": "Site Reliability Engineer (SRE) Intern",
+      "company": "ReliableSystems",
+      "location": "Hyderabad",
+      "deadline": "2025-10-12",
+      "description": "Learn to ensure the reliability and performance of large-scale systems. Work with monitoring, alerting, and automation tools."
+    },
+    {
+      "id": "28",
+      "title": "Cyber-Physical Systems Intern",
+      "company": "ConnectControl",
+      "location": "Mumbai",
+      "deadline": "2025-10-15",
+      "description": "Explore the intersection of computation and physical processes. Work on IoT devices, sensor integration, and real-time data processing."
+    },
+    {
+      "id": "29",
+      "title": "Growth Hacking Intern",
+      "company": "ScaleUpLabs",
+      "location": "Remote",
+      "deadline": "2025-10-18",
+      "description": "Experiment with different strategies to drive user acquisition, activation, retention, and referral. Data-driven mindset is key."
+    },
+    {
+      "id": "30",
+      "title": "Computer Vision Intern",
+      "company": "EyeOnAI",
+      "location": "Delhi",
+      "deadline": "2025-10-20",
+      "description": "Develop and implement algorithms for image and video analysis. Experience with OpenCV, Python, and deep learning frameworks is beneficial."
+    },
+    {
+      "id": "31",
+      "title": "Backend Python Developer Intern",
+      "company": "PyServer",
+      "location": "Bangalore",
+      "deadline": "2025-10-22",
+      "description": "Build powerful backend services using Python frameworks like Django or Flask. Work on API development and database integration."
+    },
+    {
+      "id": "32",
+      "title": "Frontend Vue.js Developer Intern",
+      "company": "VueFront",
+      "location": "Pune",
+      "deadline": "2025-10-25",
+      "description": "Join our team working on exciting web interfaces using Vue.js. Familiarity with component-based architecture and state management is a plus."
+    },
+    {
+      "id": "33",
+      "title": "Data Engineering Intern",
+      "company": "DataFlow",
+      "location": "Hyderabad",
+      "deadline": "2025-10-28",
+      "description": "Assist in building and maintaining data pipelines, ETL processes, and data warehouses. Knowledge of SQL and cloud data platforms is valuable."
+    },
+    {
+      "id": "34",
+      "title": "Machine Learning Operations (MLOps) Intern",
+      "company": "MLOpsInnovate",
+      "location": "Chennai",
+      "deadline": "2025-11-01",
+      "description": "Learn to deploy, monitor, and manage ML models in production. Experience with Docker, Kubernetes, and cloud platforms is a plus."
+    },
+    {
+      "id": "35",
+      "title": "Software Development Engineer in Test (SDET) Intern",
+      "company": "QualityCraft",
+      "location": "Bangalore",
+      "deadline": "2025-11-05",
+      "description": "Combine development and testing skills to build robust automated test frameworks. Strong programming fundamentals and problem-solving abilities are essential."
+    }
+  ]
