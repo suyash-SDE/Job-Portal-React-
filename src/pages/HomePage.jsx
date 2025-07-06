@@ -1,4 +1,3 @@
-
 import React from "react";
 import { Link } from "react-router-dom";
 
@@ -11,8 +10,10 @@ const HomePage = () => {
         </h1>
         <div className="flex flex-col sm:flex-row justify-center gap-6">
           <Link to="/jobs">
-            <button className="bg-gray-900 hover:bg-gray-700 rounded text-white font-bold py-3 px-8 
-shadow-lg transform hover:scale-105 transition-all duration-300 w-full sm:w-auto">
+            <button
+              className="bg-gray-900 hover:bg-gray-700 rounded text-white font-bold py-3 px-8 
+shadow-lg transform hover:scale-105 transition-all duration-300 w-full sm:w-auto"
+            >
               View Job Listings
             </button>
           </Link>

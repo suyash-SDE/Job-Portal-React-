@@ -1,22 +1,30 @@
-import { createSlice } from '@reduxjs/toolkit';
+import { createSlice } from "@reduxjs/toolkit";
 
 const applicationsSlice = createSlice({
-  name: 'applications',
+  name: "applications",
   initialState: {
     appliedJobs: [],
   },
   reducers: {
     applyForJob: (state, action) => {
-      const jobExists = state.appliedJobs.some(job => job.id === action.payload.id);
+      const jobExists = state.appliedJobs.some(
+        (job) => job.id === action.payload.id
+      );
       if (!jobExists) {
-        state.appliedJobs.push(action.payload);
-        alert(`Successfully applied for "${action.payload.title}"!`);
-      } else {
-        alert(`You have already applied for "${action.payload.title}".`);
+        state.appliedJobs.push({
+          ...action.payload,
+          applicationDate: new Date().toISOString(),
+        });
       }
+    },
+    removeApplication: (state, action) => {
+      const jobIdToRemove = action.payload;
+      state.appliedJobs = state.appliedJobs.filter(
+        (job) => job.id !== jobIdToRemove
+      );
     },
   },
 });
 
-export const { applyForJob } = applicationsSlice.actions;
+export const { applyForJob, removeApplication } = applicationsSlice.actions;
 export default applicationsSlice.reducer;

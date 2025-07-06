@@ -6,6 +6,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  
 })
 
 
@@ -16,3 +17,11 @@ export default defineConfig({
 // export default defineConfig({
 //   plugins: [react()],
 // })
+
+
+
+// esbuild: {
+  //   loaders: {
+  //     '.js': 'jsx', // This line tells esbuild to treat .js files as .jsx
+  //   },
+  // },
